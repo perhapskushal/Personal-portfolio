@@ -3,7 +3,6 @@
   "style": "default",
   "rsc": false,
   "tsx": false,
-  "tailwind": {},
   "aliases": {
     "components": "@/components",
     "utils": "@/lib/utils",
