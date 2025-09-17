@@ -15,7 +15,7 @@ Welcome to my personal portfolio! I am Kushal Shrestha, a Computer Science stude
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Vite
-- **Languages:** JavaScript, TypeScript
+- **Languages:** JavaScript
 - **Other:** PostCSS, Bun (for package management)
 
 ---
@@ -92,7 +92,7 @@ Welcome to my personal portfolio! I am Kushal Shrestha, a Computer Science stude
 This project is built with:
 
 - Vite
-- TypeScript
+ 
 - React
 - shadcn-ui
 - PostCSS
