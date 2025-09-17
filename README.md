@@ -1,5 +1,4 @@
 # Kushal Shrestha – AI Engineer & Data Science Portfolio
-![Banner](public/kushal-photo.png)
 
 ## 🚀 Introduction
 Welcome to my personal portfolio! I am Kushal Shrestha, a Computer Science student and aspiring AI Engineer passionate about building innovative solutions in Artificial Intelligence and Data Science. This portfolio showcases my projects, experience, and skills in the field.
